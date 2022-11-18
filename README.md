@@ -1,2 +1,2 @@
 # HackerRank
-Python exercises from HackerRank site.
+Python exercises from [HackerRank](https://www.hackerrank.com) site.
