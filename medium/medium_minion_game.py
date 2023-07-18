@@ -40,8 +40,6 @@ def minion_game(string):
         # n + (n-1) + (n-2) +..1
         if s[i] in vowels:
             kevin_score += (len(s) - i)
-        else:
-            stuart_score += (len(s) - i)
     if kevin_score > stuart_score:
         print("Kevin", kevin_score)
     elif stuart_score > kevin_score:
