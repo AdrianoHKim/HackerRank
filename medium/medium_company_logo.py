@@ -11,7 +11,7 @@ If the occurrence count is the same, sort the characters in alphabetical order.
 For example, according to the conditions described above,
 
 GOOGLE would have it's logo with the letters G, O, E.
-
+ex:
 Input Format
 
 A single line of input containing the string .
